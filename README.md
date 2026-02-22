@@ -37,7 +37,6 @@ After running the commands above, a `go.work` file will be generated automatical
 go 1.24 // Adjust to your installed Go version
 
 use (
-	./base-app
 	./component/dictionary
 	./component/dto
 	./component/repository
